@@ -55,7 +55,7 @@ function setup() {
 Description of draw()
 */
 function draw() {
-  background(183, 190, 201);
+  background(0);
 
   rect(squareGaben.x, squareGaben.y, 100, 100);
   rectMode(CENTER);
