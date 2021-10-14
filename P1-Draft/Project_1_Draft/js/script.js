@@ -100,7 +100,7 @@ imageMode(CENTER);
 image(gabbenImg, squareGaben.x, squareGaben.y, 100, 100);
 
 imageMode(CENTER);
-image(h3IconImg, circleH3.x, circleH3.y, 50, 50;
+image(h3IconImg, circleH3.x, circleH3.y, 50, 50);
 
 
 }
